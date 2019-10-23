@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/929/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src
+END
+pjsua_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/929/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/pjsua_wrap.cpp
+END
+opensl_dev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/opensl_dev.cpp
+END
+android_jni_dev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/925/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/android_jni_dev.cpp
+END
+zrtp_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/zrtp_android.c
+END
+android_capture_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/923/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/android_capture_dev.c
+END
+opengl_video_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/925/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/opengl_video_dev.c
+END
+pjsua_jni_addons.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/jni/src/pjsua_jni_addons.c
+END

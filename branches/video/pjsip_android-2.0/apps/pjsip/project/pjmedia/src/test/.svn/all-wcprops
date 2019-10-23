@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test
+END
+sdp_neg_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/sdp_neg_test.c
+END
+vid_codec_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vid_codec_test.c
+END
+vid_dev_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vid_dev_test.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/test.c
+END
+session_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/session_test.c
+END
+codec_vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/codec_vectors.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/main.c
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/test.h
+END
+wsola_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/wsola_test.c
+END
+jbuf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/jbuf_test.c
+END
+sdptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/sdptest.c
+END
+audio_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/audio_tool.c
+END
+rtp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/rtp_test.c
+END
+mips_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/mips_test.c
+END
+wince_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/wince_main.c
+END

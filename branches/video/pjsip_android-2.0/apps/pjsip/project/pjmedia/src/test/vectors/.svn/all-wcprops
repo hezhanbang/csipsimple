@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors
+END
+g722_1_dec_out_32000.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_out_32000.pcm
+END
+g722_1_dec_out_24000.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_out_24000.pcm
+END
+g722_1_enc_in.wav
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_enc_in.wav
+END
+swapendian.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/swapendian.c
+END
+g722_1_dec_out_32000_fe.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_out_32000_fe.pcm
+END
+g722_1_dec_in_32000_fe.itu
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_in_32000_fe.itu
+END
+g722_1_dec_out_24000_fe.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_out_24000_fe.pcm
+END
+g722_1_dec_in_24000_fe.itu
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_dec_in_24000_fe.itu
+END
+g722_1_enc_out_32000_be.pak
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_enc_out_32000_be.pak
+END
+g722_1_enc_out_24000_be.pak
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/test/vectors/g722_1_enc_out_24000_be.pak
+END

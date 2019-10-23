@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/874/branches/level7/CSipSimple/src/com/csipsimple/utils
+END
+DialingFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/DialingFeedback.java
+END
+ContactsAsyncHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/ContactsAsyncHelper.java
+END
+CallLogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/CallLogHelper.java
+END
+SmileyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/SmileyParser.java
+END
+CallsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/CallsUtils.java
+END
+Columns.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/Columns.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/Log.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/MD5.java
+END
+Ringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/Ringer.java
+END
+LoginResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/branches/level7/CSipSimple/src/com/csipsimple/utils/LoginResponse.java
+END
+PreferencesWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/PreferencesWrapper.java
+END
+Threading.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/Threading.java
+END
+SipProfileJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/SipProfileJson.java
+END
+Compatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/Compatibility.java
+END
+AccountListUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/AccountListUtils.java
+END
+CollectLogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/utils/CollectLogs.java
+END
+CustomDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/branches/level7/CSipSimple/src/com/csipsimple/utils/CustomDistribution.java
+END

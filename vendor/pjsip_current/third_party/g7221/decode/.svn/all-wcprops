@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/g7221/decode
+END
+coef2sam.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/g7221/decode/coef2sam.c
+END
+dct4_s.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/g7221/decode/dct4_s.c
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/g7221/decode/decoder.c
+END
+dct4_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/g7221/decode/dct4_s.h
+END

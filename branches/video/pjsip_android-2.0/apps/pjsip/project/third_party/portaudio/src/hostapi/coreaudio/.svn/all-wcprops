@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio
+END
+pa_mac_core_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_internal.h
+END
+pa_mac_core_blocking.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_blocking.c
+END
+pa_mac_core_utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_utilities.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/notes.txt
+END
+pa_mac_core_blocking.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_blocking.h
+END
+pa_mac_core_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_old.c
+END
+pa_mac_core_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_utilities.h
+END
+pa_mac_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core.c
+END

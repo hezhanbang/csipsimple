@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output
+END
+testvector_output_8_kHz_20_ms_20_kbps_10_loss_FEC.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_20_ms_20_kbps_10_loss_FEC.pcm
+END
+testvector_output_12_kHz_60_ms_10_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps.pcm
+END
+testvector_output_16_kHz_40_ms_20_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_16_kHz_40_ms_20_kbps.pcm
+END
+testvector_output_12_kHz_40_ms_16_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_12_kHz_40_ms_16_kbps.pcm
+END
+testvector_output_12_kHz_60_ms_10_kbps_12_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_12_kHz_out.pcm
+END
+testvector_output_8_kHz_60_ms_8_kbps_8_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_8_kHz_out.pcm
+END
+testvector_output_24_kHz_40_ms_24_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_24_kHz_40_ms_24_kbps.pcm
+END
+testvector_output_16_kHz_60_ms_12_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_16_kHz_60_ms_12_kbps.pcm
+END
+testvector_output_24_kHz_60_ms_16_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_24_kHz_60_ms_16_kbps.pcm
+END
+testvector_output_12_kHz_60_ms_10_kbps_16_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_16_kHz_out.pcm
+END
+testvector_output_8_kHz_60_ms_8_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps.pcm
+END
+testvector_output_12_kHz_20_ms_24_kbps_10_loss_FEC.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_12_kHz_20_ms_24_kbps_10_loss_FEC.pcm
+END
+testvector_output_24_kHz_20_ms_40_kbps_10_loss_FEC.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_24_kHz_20_ms_40_kbps_10_loss_FEC.pcm
+END
+testvector_output_16_kHz_60_ms_12_kbps_16_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_16_kHz_60_ms_12_kbps_16_kHz_out.pcm
+END
+testvector_output_16_kHz_20_ms_32_kbps_10_loss_FEC.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_16_kHz_20_ms_32_kbps_10_loss_FEC.pcm
+END
+testvector_output_8_kHz_60_ms_8_kbps_12_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_12_kHz_out.pcm
+END
+testvector_output_8_kHz_60_ms_8_kbps_16_kHz_out.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_16_kHz_out.pcm
+END
+testvector_output_8_kHz_40_ms_12_kbps.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/silk/test_vectors/output/testvector_output_8_kHz_40_ms_12_kbps.pcm
+END

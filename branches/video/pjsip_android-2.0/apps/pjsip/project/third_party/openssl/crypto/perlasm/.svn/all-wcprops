@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/readme
+END
+x86nasm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/x86nasm.pl
+END
+x86ms.pl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/x86ms.pl
+END
+x86asm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/x86asm.pl
+END
+cbc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/cbc.pl
+END
+x86_64-xlate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/x86_64-xlate.pl
+END
+x86unix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/perlasm/x86unix.pl
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/build
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-darwinos.mak
+END
+m-mpc860.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-mpc860.mak
+END
+m-arm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-arm.mak
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-rtems.mak
+END
+m-powerpc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-powerpc.mak
+END
+os-palmos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-palmos.mak
+END
+host-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/host-win32.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-linux.mak
+END
+cc-gcc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/cc-gcc.mak
+END
+m-m68k.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-m68k.mak
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/build/Android.mk
+END
+m-alpha.mak
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-alpha.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-i386.mak
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-sunos.mak
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-x86_64.mak
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/common.mak
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/build/rules.mak
+END
+cc-vc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/cc-vc.mak
+END
+cc-auto.mak
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/build/cc-auto.mak
+END
+host-mingw.mak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/host-mingw.mak
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-auto.mak.in
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/os-linux-kernel.mak
+END
+host-unix.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/host-unix.mak
+END
+cc-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/cc-auto.mak.in
+END
+m-sparc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-sparc.mak
+END
+m-auto.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build/m-auto.mak
+END

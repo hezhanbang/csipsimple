@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include
+END
+srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/srtp.h
+END
+srtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/srtp_priv.h
+END
+ut_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/ut_sim.h
+END
+getopt_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/getopt_s.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/rtp.h
+END
+rtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/include/rtp_priv.h
+END

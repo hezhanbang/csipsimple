@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches
+END
+005fix_contact_header_escape.diff
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/005fix_contact_header_escape.diff
+END
+008sdp_in_options.diff
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/008sdp_in_options.diff
+END
+000android_os.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/000android_os.diff
+END
+002pjsip-webrtc-aec.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/002pjsip-webrtc-aec.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/series
+END
+013ignore_stun_failure_transport_creation.diff
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/013ignore_stun_failure_transport_creation.diff
+END
+011add_vpx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/011add_vpx_type.h
+END
+009silk_custo.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/009silk_custo.diff
+END
+012refine_find_for_incoming_acc.diff
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/012refine_find_for_incoming_acc.diff
+END
+003rtp_type_strip.diff
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/003rtp_type_strip.diff
+END
+010os_unix_joining_self.diff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/010os_unix_joining_self.diff
+END
+006no_update_option.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/patches/006no_update_option.diff
+END

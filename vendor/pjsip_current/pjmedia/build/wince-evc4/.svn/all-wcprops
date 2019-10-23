@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4
+END
+pjmedia_codec_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4/pjmedia_codec_wince.vcp
+END
+pjmedia_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4/pjmedia_wince.vcp
+END
+pjmedia_wince.vcw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4/pjmedia_wince.vcw
+END
+pjmedia_auddev_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4/pjmedia_auddev_wince.vcp
+END
+pjmedia_test.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/wince-evc4/pjmedia_test.vcp
+END

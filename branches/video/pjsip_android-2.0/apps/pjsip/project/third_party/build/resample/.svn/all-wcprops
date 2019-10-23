@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/config.h
+END
+libresample_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/libresample_dll.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/Makefile
+END
+libresample_dll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/libresample_dll.dsp
+END
+libresample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/libresample.vcproj
+END
+libresample.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/libresample.dsp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/Android.mk
+END
+libresample.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/resample/libresample.vcp
+END

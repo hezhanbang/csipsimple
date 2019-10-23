@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip
+END
+sip_ua_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_ua_layer.h
+END
+sip_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_auth.h
+END
+sip_transport_tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transport_tcp.h
+END
+sip_tel_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_tel_uri.h
+END
+sip_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_types.h
+END
+sip_transport_udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transport_udp.h
+END
+sip_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_config.h
+END
+sip_auth_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_auth_msg.h
+END
+sip_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_private.h
+END
+sip_auth_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_auth_parser.h
+END
+sip_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_util.h
+END
+sip_auth_aka.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_auth_aka.h
+END
+sip_transport_tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transport_tls.h
+END
+print_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/print_util.h
+END
+sip_autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_autoconf.h
+END
+sip_resolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_resolve.h
+END
+sip_endpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_endpoint.h
+END
+sip_multipart.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_multipart.h
+END
+sip_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_event.h
+END
+sip_autoconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_autoconf.h.in
+END
+sip_transport_loop.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transport_loop.h
+END
+sip_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transaction.h
+END
+sip_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_module.h
+END
+sip_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_errno.h
+END
+sip_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_msg.h
+END
+sip_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_transport.h
+END
+sip_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_parser.h
+END
+sip_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_uri.h
+END
+sip_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/include/pjsip/sip_dialog.h
+END

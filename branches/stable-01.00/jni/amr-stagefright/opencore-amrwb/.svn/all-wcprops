@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2230/branches/stable-01.00/jni/amr-stagefright/opencore-amrwb
+END
+dec_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2230/branches/stable-01.00/jni/amr-stagefright/opencore-amrwb/dec_if.h
+END
+pvamrwbdecoder_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2230/branches/stable-01.00/jni/amr-stagefright/opencore-amrwb/pvamrwbdecoder_api.h
+END

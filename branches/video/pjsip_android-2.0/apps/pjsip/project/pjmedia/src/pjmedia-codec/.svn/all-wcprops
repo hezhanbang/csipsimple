@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec
+END
+codec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/codec2.c
+END
+speex_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/speex_codec.c
+END
+g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/g722.c
+END
+silk.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/silk.c
+END
+l16.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/l16.c
+END
+g7221.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/g7221.c
+END
+h263_packetizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/h263_packetizer.c
+END
+h264_packetizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/h264_packetizer.c
+END
+ffmpeg_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/ffmpeg_codecs.c
+END
+gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/gsm.c
+END
+passthrough.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/passthrough.c
+END
+g729.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/g729.c
+END
+ipp_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/ipp_codecs.c
+END
+ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/src/pjmedia-codec/ilbc.c
+END

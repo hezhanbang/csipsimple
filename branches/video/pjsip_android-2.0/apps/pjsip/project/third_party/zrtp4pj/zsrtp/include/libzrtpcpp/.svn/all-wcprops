@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp
+END
+ZrtpPacketPing.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketPing.h
+END
+ZrtpPacketHello.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketHello.h
+END
+ZrtpUserCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpUserCallback.h
+END
+ZrtpPacketClearAck.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketClearAck.h
+END
+ZrtpCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpCodes.h
+END
+ZrtpCallbackWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpCallbackWrapper.h
+END
+Base32.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/Base32.h
+END
+ZrtpPacketErrorAck.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketErrorAck.h
+END
+ZrtpPacketBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketBase.h
+END
+ZrtpPacketGoClear.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketGoClear.h
+END
+ZrtpStateClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpStateClass.h
+END
+zrtpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/zrtpPacket.h
+END
+ZrtpPacketDHPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketDHPart.h
+END
+TimeoutProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/TimeoutProvider.h
+END
+ZrtpPacketError.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketError.h
+END
+ZrtpQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpQueue.h
+END
+ZrtpPacketConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketConfirm.h
+END
+ZrtpCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpCallback.h
+END
+ZrtpStates.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpStates.h
+END
+ZrtpPacketPingAck.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketPingAck.h
+END
+ZIDRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZIDRecord.h
+END
+ZIDFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZIDFile.h
+END
+ZrtpPacketHelloAck.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketHelloAck.h
+END
+zrtpccrtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/zrtpccrtp.h
+END
+ZrtpCrc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpCrc32.h
+END
+ZrtpTextData.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpTextData.h
+END
+ZrtpPacketConf2Ack.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketConf2Ack.h
+END
+ZRtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZRtp.h
+END
+ZrtpPacketCommit.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpPacketCommit.h
+END
+ZrtpConfigure.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpConfigure.h
+END
+ZrtpCWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/libzrtpcpp/ZrtpCWrapper.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem
+END
+pem_sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_sign.c
+END
+message
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/message
+END
+pem_pk8.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_pk8.c
+END
+pem_x509.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_x509.c
+END
+pem_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_lib.c
+END
+pem2.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem2.h
+END
+pem_all.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_all.c
+END
+pem_pkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_pkey.c
+END
+pem_seal.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_seal.c
+END
+pem.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem.h
+END
+pem_xaux.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_xaux.c
+END
+pem_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_err.c
+END
+pem_oth.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_oth.c
+END
+pem_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pem_info.c
+END
+pkcs7.lis
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/pkcs7.lis
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/pem/Makefile
+END

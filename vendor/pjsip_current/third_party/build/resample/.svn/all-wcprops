@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/config.h
+END
+libresample_dll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/libresample_dll.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/Makefile
+END
+libresample_dll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/libresample_dll.dsp
+END
+libresample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/libresample.vcproj
+END
+libresample.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/libresample.dsp
+END
+libresample.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/resample/libresample.vcp
+END

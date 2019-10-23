@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/AndroidManifest.xml
+END
+.android2po_header
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/.android2po_header
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/COPYING
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/.checkstyle
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/README
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple/default.properties
+END
+.android2po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/.android2po
+END
+svn-revision.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/svn-revision.build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/.classpath
+END
+PlaceHolder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/PlaceHolder.txt
+END

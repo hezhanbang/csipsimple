@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/35/branches/android-3/res/layout
+END
+cstackupdater.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/35/branches/android-3/res/layout/cstackupdater.xml
+END
+buddy_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/35/branches/android-3/res/layout/buddy_list.xml
+END
+dialer_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/branches/android-3/res/layout/dialer_text.xml
+END
+callhandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/branches/android-3/res/layout/callhandler.xml
+END
+custom_prefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/branches/android-3/res/layout/custom_prefs.xml
+END
+dialer_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/35/branches/android-3/res/layout/dialer_activity.xml
+END
+dialer_digit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/branches/android-3/res/layout/dialer_digit.xml
+END
+download_bubble.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/35/branches/android-3/res/layout/download_bubble.xml
+END
+account_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/branches/android-3/res/layout/account_row.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/35/branches/android-3/res/layout/main.xml
+END
+add_account_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/35/branches/android-3/res/layout/add_account_wizard.xml
+END
+wizard_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/35/branches/android-3/res/layout/wizard_row.xml
+END
+account_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/branches/android-3/res/layout/account_list.xml
+END
+wizard_prefs_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/branches/android-3/res/layout/wizard_prefs_base.xml
+END
+welcome.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/35/branches/android-3/res/layout/welcome.xml
+END

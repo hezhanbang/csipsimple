@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/samplerate
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/samplerate/README.txt
+END
+Static.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/samplerate/Static.msvc
+END
+libsamplerate_static.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/samplerate/libsamplerate_static.dsp
+END

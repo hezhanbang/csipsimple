@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/529/branches/dc3-539
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/507/branches/dc3-539/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/507/branches/dc3-539/AndroidManifest.xml
+END
+.android2po_header
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/507/branches/dc3-539/.android2po_header
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/507/branches/dc3-539/COPYING
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/507/branches/dc3-539/.checkstyle
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/507/branches/dc3-539/README
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/507/branches/dc3-539/default.properties
+END
+.android2po
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/507/branches/dc3-539/.android2po
+END
+svn-revision.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/507/branches/dc3-539/svn-revision.build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/507/branches/dc3-539/.classpath
+END
+PlaceHolder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/507/branches/dc3-539/PlaceHolder.txt
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/941/vendor/ippi/res/xml
+END
+w_auth_and_proxy_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/941/vendor/ippi/res/xml/w_auth_and_proxy_preferences.xml
+END
+w_advanced_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/456/vendor/ippi/res/xml/w_advanced_preferences.xml
+END
+w_alternate_server_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/456/vendor/ippi/res/xml/w_alternate_server_preferences.xml
+END
+prefs_ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/941/vendor/ippi/res/xml/prefs_ui.xml
+END
+prefs_calls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/941/vendor/ippi/res/xml/prefs_calls.xml
+END
+w_expert_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/941/vendor/ippi/res/xml/w_expert_preferences.xml
+END
+prefs_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/941/vendor/ippi/res/xml/prefs_media.xml
+END
+appwidget_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/456/vendor/ippi/res/xml/appwidget_info.xml
+END
+w_simple_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/456/vendor/ippi/res/xml/w_simple_preferences.xml
+END
+w_ecs_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/456/vendor/ippi/res/xml/w_ecs_preferences.xml
+END
+prefs_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/941/vendor/ippi/res/xml/prefs_security.xml
+END
+w_authorization_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/941/vendor/ippi/res/xml/w_authorization_preferences.xml
+END
+prefs_network.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/941/vendor/ippi/res/xml/prefs_network.xml
+END
+w_basic_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/456/vendor/ippi/res/xml/w_basic_preferences.xml
+END

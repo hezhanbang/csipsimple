@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/507/branches/dc3-539/res/anim
+END
+quickaction_below_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/507/branches/dc3-539/res/anim/quickaction_below_enter.xml
+END
+quickaction_above_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/507/branches/dc3-539/res/anim/quickaction_above_exit.xml
+END
+quickaction_above_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/507/branches/dc3-539/res/anim/quickaction_above_enter.xml
+END
+fade_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/507/branches/dc3-539/res/anim/fade_out.xml
+END
+layout_slide_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/507/branches/dc3-539/res/anim/layout_slide_right.xml
+END
+quickaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/507/branches/dc3-539/res/anim/quickaction.xml
+END
+quickaction_below_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/507/branches/dc3-539/res/anim/quickaction_below_exit.xml
+END
+slide_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/507/branches/dc3-539/res/anim/slide_right.xml
+END

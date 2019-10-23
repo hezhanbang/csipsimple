@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath
+END
+ice_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/ice_session.c
+END
+stun_msg_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_msg_dump.c
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/errno.c
+END
+turn_sock.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/turn_sock.c
+END
+stun_sock.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_sock.c
+END
+nat_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/nat_detect.c
+END
+ice_strans.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/ice_strans.c
+END
+stun_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_auth.c
+END
+turn_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/turn_session.c
+END
+stun_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_session.c
+END
+stun_transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_transaction.c
+END
+stun_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjnath/stun_msg.c
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build
+END
+pjmedia.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia.dsw
+END
+pjmedia_codec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_codec.vcproj
+END
+pjaut.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjaut.dsp
+END
+pjmedia_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_test.vcproj
+END
+pjmedia.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia.vcproj
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/os-darwinos.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/Makefile
+END
+pjmedia_audiodev.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_audiodev.dsp
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/os-rtems.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/os-linux.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/m-i386.mak
+END
+pjmedia_audiodev.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_audiodev.vcproj
+END
+pjmedia_codec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_codec.dsp
+END
+pjmedia_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia_test.dsp
+END
+pjmedia.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/pjmedia.dsp
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/m-x86_64.mak
+END
+Jbtest.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/Jbtest.dat
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/build/os-auto.mak.in
+END

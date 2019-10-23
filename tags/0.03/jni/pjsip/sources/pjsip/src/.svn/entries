@@ -1,0 +1,43 @@
+10
+
+dir
+3886
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip/src
+http://svn.pjsip.org/repos
+
+
+
+2011-10-31T10:31:23.790175Z
+3878
+ming
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+pjsip
+dir
+
+pjsua-lib
+dir
+
+pjsip-ua
+dir
+
+pjsip-simple
+dir
+
+test
+dir
+

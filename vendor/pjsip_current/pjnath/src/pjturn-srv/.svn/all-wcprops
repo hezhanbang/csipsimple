@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv
+END
+listener_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/listener_tcp.c
+END
+listener_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/listener_udp.c
+END
+turn.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/turn.h
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/auth.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/main.c
+END
+allocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/allocation.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/server.c
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjnath/src/pjturn-srv/auth.h
+END

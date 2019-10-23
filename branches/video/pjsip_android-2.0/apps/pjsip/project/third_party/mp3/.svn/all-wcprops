@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/mp3
+END
+mp3_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/mp3/mp3_port.h
+END
+mp3_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/mp3/mp3_writer.c
+END
+BladeMP3EncDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/mp3/BladeMP3EncDLL.h
+END

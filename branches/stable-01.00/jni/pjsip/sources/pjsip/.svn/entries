@@ -1,0 +1,46 @@
+10
+
+dir
+4516
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip
+http://svn.pjsip.org/repos
+
+
+
+2013-05-06T09:10:56.872783Z
+4516
+nanang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+include
+dir
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+docs
+dir
+
+build
+dir
+

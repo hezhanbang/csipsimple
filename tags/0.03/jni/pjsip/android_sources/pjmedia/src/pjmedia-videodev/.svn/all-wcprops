@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/tags/0.03/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev
+END
+android_capture_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1111/tags/0.03/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/android_capture_dev.c
+END
+opengl_video_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1111/tags/0.03/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/opengl_video_dev.c
+END

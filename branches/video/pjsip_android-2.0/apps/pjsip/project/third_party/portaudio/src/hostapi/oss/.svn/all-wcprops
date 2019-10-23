@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/oss
+END
+pa_unix_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/oss/pa_unix_oss.c
+END
+low_latency_tip.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/oss/low_latency_tip.txt
+END
+recplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/oss/recplay.c
+END

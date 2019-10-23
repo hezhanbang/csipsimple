@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp
+END
+libsrtp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp/libsrtp.vcproj
+END
+srtp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp/srtp_config.h
+END
+libsrtp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp/libsrtp.dsp
+END
+libsrtp.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp/libsrtp.vcp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/srtp/Makefile
+END

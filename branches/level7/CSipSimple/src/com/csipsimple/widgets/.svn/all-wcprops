@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets
+END
+EditSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/EditSipUri.java
+END
+RegistrationNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/RegistrationNotification.java
+END
+FitTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/FitTextView.java
+END
+ExtensibleBadge.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/ExtensibleBadge.java
+END
+DontPressWithParentImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/DontPressWithParentImageView.java
+END
+DontPressWithParentLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/DontPressWithParentLayout.java
+END
+InCallControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/InCallControls.java
+END
+QuickActionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/QuickActionItem.java
+END
+Dialpad.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/Dialpad.java
+END
+MarqueeTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/MarqueeTextView.java
+END
+InCallInfo2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/InCallInfo2.java
+END
+PasswordPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/PasswordPreference.java
+END
+QuickActionWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/QuickActionWindow.java
+END
+AccountWidgetConfigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/AccountWidgetConfigure.java
+END
+IndicatorTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/IndicatorTab.java
+END
+DragnDropListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/DragnDropListView.java
+END
+InCallControls2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/InCallControls2.java
+END
+SlidingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/SlidingPanel.java
+END
+SeekBarPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/SeekBarPreference.java
+END
+AccountChooserButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/AccountChooserButton.java
+END
+AccountWidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/AccountWidgetProvider.java
+END
+InCallInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/InCallInfo.java
+END
+ScreenLocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/ScreenLocker.java
+END
+SlidingTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/widgets/SlidingTab.java
+END

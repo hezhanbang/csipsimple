@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4
+END
+pjsip_wince.vcw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/pjsip_wince.vcw
+END
+pjsip_core_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/pjsip_core_wince.vcp
+END
+pjsip_simple_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/pjsip_simple_wince.vcp
+END
+test_pjsip_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/test_pjsip_wince.vcp
+END
+pjsua_lib_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/pjsua_lib_wince.vcp
+END
+pjsip_ua_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/wince-evc4/pjsip_ua_wince.vcp
+END

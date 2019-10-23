@@ -1,0 +1,129 @@
+10
+
+dir
+2470
+http://csipsimple.googlecode.com/svn/tags/0.03/jni
+http://csipsimple.googlecode.com/svn
+
+
+
+2011-11-15T18:56:03.737508Z
+1105
+r3gis.3r@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+silk
+dir
+
+openssl
+dir
+
+swig-glue
+dir
+
+ffmpeg
+dir
+
+amr-stagefright
+dir
+
+pjsip
+dir
+
+webrtc
+dir
+
+csipsimple-wrapper
+dir
+
+Android.mk
+file
+
+
+
+
+2016-01-08T02:20:15.913896Z
+002c466881c0901e6b6e37ef5c356c7e
+2011-11-01T14:20:11.166950Z
+1081
+r3gis.3r@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1014
+
+g729
+dir
+
+Application.mk
+file
+
+
+
+
+2016-01-08T02:20:15.913896Z
+3885fdfad2483e779964d4074a03d6dd
+2011-11-15T18:56:03.737508Z
+1105
+r3gis.3r@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1697
+
+zrtp4pj
+dir
+
+codec2
+dir
+

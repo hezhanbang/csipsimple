@@ -1,0 +1,9 @@
+#summary Cette page explique comment remonter les besoins de support de nouveaux matériels.
+#labels Phase-Support,Deprecated
+
+= *ATTENTION : Sauf pour l'architecture ARMv4, cette procédure est obsolète* =
+
+Le nouveau driver audio est maintenant basé sur des appels JNI moins performants mais plus stables.
+Les appels à des API privées ont donc été supprimés. Toute incompatibilité sera à rapporter dans la partie _Issues_.
+
+Les bugs avec la plateforme ARMv4 sont traités dans un ticket spécifique (voir Issues).

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include
+END
+pa_win_wmme.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_win_wmme.h
+END
+pa_win_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_win_ds.h
+END
+portaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/portaudio.h
+END
+pa_win_waveformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_win_waveformat.h
+END
+pa_jack.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_jack.h
+END
+pa_mac_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_mac_core.h
+END
+pa_asio.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_asio.h
+END
+pa_linux_alsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/include/pa_linux_alsa.h
+END

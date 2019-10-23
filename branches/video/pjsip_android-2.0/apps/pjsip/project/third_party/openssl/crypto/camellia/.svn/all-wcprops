@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia
+END
+camellia.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/camellia.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/Makefile
+END
+cmll_ofb.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_ofb.c
+END
+cmll_cbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_cbc.c
+END
+cmll_ctr.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_ctr.c
+END
+cmll_ecb.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_ecb.c
+END
+cmll_cfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_cfb.c
+END
+cmll_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_misc.c
+END
+cmll_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/cmll_locl.h
+END
+camellia.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/camellia/camellia.c
+END

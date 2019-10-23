@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia
+END
+vid_codec_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/vid_codec_util.h
+END
+alaw_ulaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/alaw_ulaw.h
+END
+doxygen.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/doxygen.h
+END
+echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/echo.h
+END
+wav_playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/wav_playlist.h
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/g711.h
+END
+silencedet.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/silencedet.h
+END
+vid_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/vid_codec.h
+END
+sdp_neg.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/sdp_neg.h
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/session.h
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/port.h
+END
+transport_loop.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_loop.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/errno.h
+END
+jbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/jbuf.h
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/frame.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/clock.h
+END
+delaybuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/delaybuf.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/stream.h
+END
+splitcomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/splitcomb.h
+END
+transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport.h
+END
+sound_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/sound_port.h
+END
+config_auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/config_auto.h
+END
+wav_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/wav_port.h
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/wave.h
+END
+config_auto.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/config_auto.h.in
+END
+transport_udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_udp.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/types.h
+END
+transport_srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_srtp.h
+END
+conference.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/conference.h
+END
+bidirectional.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/bidirectional.h
+END
+rtcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/rtcp.h
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/resample.h
+END
+transport_ice.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_ice.h
+END
+symbian_sound_aps.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/symbian_sound_aps.h
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/codec.h
+END
+circbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/circbuf.h
+END
+null_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/null_port.h
+END
+plc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/plc.h
+END
+avi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/avi.h
+END
+endpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/endpoint.h
+END
+rtcp_xr.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/rtcp_xr.h
+END
+echo_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/echo_port.h
+END
+mem_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/mem_port.h
+END
+wsola.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/wsola.h
+END
+sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/sdp.h
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/sound.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/format.h
+END
+avi_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/avi_stream.h
+END
+vid_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/735/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/vid_stream.h
+END
+transport_adapter_sample.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_adapter_sample.h
+END
+tonegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/tonegen.h
+END
+master_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/master_port.h
+END
+stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/stereo.h
+END
+stream_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/stream_common.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/config.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/rtp.h
+END
+converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/converter.h
+END
+transport_zrtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/transport_zrtp.h
+END
+videoport.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/735/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia/videoport.h
+END

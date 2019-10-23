@@ -1,0 +1,43 @@
+10
+
+dir
+2470
+http://csipsimple.googlecode.com/svn/vendor/pjsip_current/pjsip/src
+http://csipsimple.googlecode.com/svn
+
+
+
+2010-04-14T12:17:12.595132Z
+52
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+pjsip
+dir
+
+pjsua-lib
+dir
+
+pjsip-ua
+dir
+
+pjsip-simple
+dir
+
+test
+dir
+

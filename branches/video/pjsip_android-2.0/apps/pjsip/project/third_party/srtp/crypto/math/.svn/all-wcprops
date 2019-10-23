@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/math
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/math/stat.c
+END
+datatypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/math/datatypes.c
+END
+gf2_8.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/math/gf2_8.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/math/math.c
+END

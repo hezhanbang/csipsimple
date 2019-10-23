@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+sources
+sources_ffmpeg
+ffmpeg_src
+x264_src
+build
+
+END

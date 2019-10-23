@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api
+END
+SipCallSession.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipCallSession.aidl
+END
+SipProfile.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipProfile.aidl
+END
+ISipConfiguration.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/ISipConfiguration.aidl
+END
+SipProfileState.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipProfileState.aidl
+END
+SipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipManager.java
+END
+MediaState.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/MediaState.aidl
+END
+SipCallSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipCallSession.java
+END
+SipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipUri.java
+END
+SipProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipProfile.java
+END
+SipConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipConfigManager.java
+END
+SipProfileState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/SipProfileState.java
+END
+ISipService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/ISipService.aidl
+END
+MediaState.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/MediaState.java
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/api/NOTICE
+END

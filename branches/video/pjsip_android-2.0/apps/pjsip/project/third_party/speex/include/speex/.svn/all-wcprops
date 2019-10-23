@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_resampler.h
+END
+speex_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_echo.h
+END
+speex_config_types.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_config_types.h.in
+END
+speex_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_callbacks.h
+END
+speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex.h
+END
+speex_stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_stereo.h
+END
+speex_jitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_jitter.h
+END
+speex_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_bits.h
+END
+speex_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_types.h
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_preprocess.h
+END
+speex_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_header.h
+END
+speex_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/speex/include/speex/speex_buffer.h
+END

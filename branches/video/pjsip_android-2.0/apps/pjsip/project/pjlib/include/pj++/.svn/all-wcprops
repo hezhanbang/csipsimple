@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++
+END
+timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/timer.hpp
+END
+os.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/os.hpp
+END
+hash.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/hash.hpp
+END
+types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/types.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/string.hpp
+END
+lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/lock.hpp
+END
+scanner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/scanner.hpp
+END
+pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/pool.hpp
+END
+proactor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/proactor.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/list.hpp
+END
+file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/file.hpp
+END
+sock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/sock.hpp
+END
+tree.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/include/pj++/tree.hpp
+END

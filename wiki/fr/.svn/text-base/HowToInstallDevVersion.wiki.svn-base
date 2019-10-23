@@ -1,0 +1,25 @@
+#summary Installer les versions de développement
+#labels Featured,Phase-Deploy
+
+= Etapes d'installation =
+
+  # *Important* Supprimez la version CSipSimple obtenue depuis l'Android Market. La plupart du temps, les versions Android Market et de développement ne sont pas compatibles entre elles. En passant de l'une à l'autre vous ne perdez que les paramètres des comptes installés.
+  # Activez le mode développement sur votre mobile Android :
+    * Ecran d'accueil > Menu > Paramètres > Applications > 
+    * Activez le support des sources inconnues
+  # Téléchargez la version développeur de votre choix 
+    L'ensemble des versions est disponibles sur [http://nightlies.csipsimple.com/trunk/ le site Nightly builds]. Rendez-vous avec votre navigateur favori et téléchargez le fichier choisi
+    * Pour charger sur votre smartphone, plusieurs options :
+      * Téléchargement direct depuis le navigateur du mobile
+      * Chargement par USB sur la carte mémoire
+  # Installation de l'application
+    * Depuis le gestionnaire de téléchargement du navigateur, vous pouvez lancer l'installation par un simple clic sur le fichier puis suivez les instructions à l'écran
+    * Depuis la carte mémoire, utilisez un explorateur de fichier sur le mobile pour lancer l'installation. Astro le fait très bien. Il est disponible sur l'Android Market.
+
+
+CSipSimple est installé
+Si vous devez remonter des logs, lisez ces [HowToCollectLogs instructions]
+
+
+= Mise à jour =
+L'installation des nouvelles versions se font manuellement. Revenez régulièrement sur [http://nightlies.csipsimple.com/trunk/ le site Nightly builds]

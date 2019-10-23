@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test
+END
+cipher_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/cipher_driver.c
+END
+stat_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/stat_driver.c
+END
+sha1_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/sha1_driver.c
+END
+env.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/env.c
+END
+datatypes_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/datatypes_driver.c
+END
+aes_calc.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/aes_calc.c
+END
+kernel_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/kernel_driver.c
+END
+auth_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/auth_driver.c
+END
+rand_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/srtp/crypto/test/rand_gen.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko
+END
+descriptions_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/descriptions_strings.xml
+END
+messages_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/messages_strings.xml
+END
+filters_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/filters_strings.xml
+END
+xliff_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/xliff_strings.xml
+END
+acct_status_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/acct_status_strings.xml
+END
+prefs_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/prefs_strings.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/strings.xml
+END
+wizard_authorization_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/wizard_authorization_strings.xml
+END
+in_call_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/in_call_strings.xml
+END
+log_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/log_strings.xml
+END
+wizard_basic_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/wizard_basic_strings.xml
+END
+wizard_advanced_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2230/branches/stable-01.00/res/values-ko/wizard_advanced_strings.xml
+END

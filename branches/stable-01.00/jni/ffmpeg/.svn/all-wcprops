@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2230/branches/stable-01.00/jni/ffmpeg
+END
+build_x264.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2230/branches/stable-01.00/jni/ffmpeg/build_x264.sh
+END
+build_ffmpeg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2230/branches/stable-01.00/jni/ffmpeg/build_ffmpeg.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2230/branches/stable-01.00/jni/ffmpeg/Makefile
+END

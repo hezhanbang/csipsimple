@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs
+END
+GenericPrefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/638/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/GenericPrefs.java
+END
+PrefsFast.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsFast.java
+END
+PrefsUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/800/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsUI.java
+END
+PrefsCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsCalls.java
+END
+PrefsMedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsMedia.java
+END
+Codecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/800/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/Codecs.java
+END
+MainPrefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/800/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/MainPrefs.java
+END
+PrefsSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsSecurity.java
+END
+PrefsFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/638/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsFilters.java
+END
+AudioTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/800/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/AudioTester.java
+END
+PrefsNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/916/branches/video/CSipSimple/src/com/csipsimple/ui/prefs/PrefsNetwork.java
+END

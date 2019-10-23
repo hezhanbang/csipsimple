@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/52/vendor/pjsip_current/pjmedia/include
+END
+pjmedia-codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec.h
+END
+pjmedia_audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia_audiodev.h
+END
+pjmedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia.h
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets
+END
+QuickActionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/QuickActionItem.java
+END
+Dialpad.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/Dialpad.java
+END
+MarqueeTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/MarqueeTextView.java
+END
+InCallInfo2.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/InCallInfo2.java
+END
+PasswordPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/PasswordPreference.java
+END
+AccountWidgetConfigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/AccountWidgetConfigure.java
+END
+IndicatorTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/IndicatorTab.java
+END
+DragnDropListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/DragnDropListView.java
+END
+InCallControls2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/InCallControls2.java
+END
+SlidingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/SlidingPanel.java
+END
+SeekBarPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/SeekBarPreference.java
+END
+AccountChooserButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/AccountChooserButton.java
+END
+AccountWidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/AccountWidgetProvider.java
+END
+HorizontalQuickActionWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/HorizontalQuickActionWindow.java
+END
+ScreenLocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/ScreenLocker.java
+END
+SlidingTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/SlidingTab.java
+END
+RegistrationNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/RegistrationNotification.java
+END
+EditSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/EditSipUri.java
+END
+FitTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/FitTextView.java
+END
+ExtensibleBadge.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/ExtensibleBadge.java
+END
+DontPressWithParentImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/DontPressWithParentImageView.java
+END
+DontPressWithParentLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1111/tags/0.03/src/com/csipsimple/widgets/DontPressWithParentLayout.java
+END

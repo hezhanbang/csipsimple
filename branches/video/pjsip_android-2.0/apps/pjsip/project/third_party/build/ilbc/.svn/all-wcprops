@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc
+END
+libilbccodec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc/libilbccodec.vcproj
+END
+libilbccodec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc/libilbccodec.dsp
+END
+libilbccodec.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc/libilbccodec.vcp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc/Android.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/build/ilbc/Makefile
+END

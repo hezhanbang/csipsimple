@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/Makefile
+END
+pjmedia_audiodev.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_audiodev.dsp
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/os-rtems.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/os-linux.mak
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/Android.mk
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/m-i386.mak
+END
+pjmedia_audiodev.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_audiodev.vcproj
+END
+pjmedia_codec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_codec.dsp
+END
+pjmedia_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_test.dsp
+END
+pjmedia.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia.dsp
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/m-x86_64.mak
+END
+pjmedia_videodev.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_videodev.vcproj
+END
+Jbtest.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/Jbtest.dat
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/os-auto.mak.in
+END
+pjmedia.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia.dsw
+END
+pjmedia_codec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_codec.vcproj
+END
+pjaut.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjaut.dsp
+END
+pjmedia_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia_test.vcproj
+END
+pjmedia.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/pjmedia.vcproj
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/build/os-darwinos.mak
+END

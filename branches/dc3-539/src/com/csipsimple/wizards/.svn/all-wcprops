@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/524/branches/dc3-539/src/com/csipsimple/wizards
+END
+WizardChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/wizards/WizardChooser.java
+END
+WizardIface.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/wizards/WizardIface.java
+END
+BasePrefsWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/wizards/BasePrefsWizard.java
+END
+WizardUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/521/branches/dc3-539/src/com/csipsimple/wizards/WizardUtils.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp
+END
+CFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/CFunCallbackStream.hxx
+END
+CppFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/CppFunCallbackStream.hxx
+END
+SampleDataFormat.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/SampleDataFormat.hxx
+END
+System.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/System.hxx
+END
+SystemHostApiIterator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/SystemHostApiIterator.hxx
+END
+DirectionSpecificStreamParameters.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/DirectionSpecificStreamParameters.hxx
+END
+InterfaceCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/InterfaceCallbackStream.hxx
+END
+Stream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/Stream.hxx
+END
+Exception.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/Exception.hxx
+END
+Device.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/Device.hxx
+END
+BlockingStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/BlockingStream.hxx
+END
+HostApi.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/HostApi.hxx
+END
+CallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/CallbackStream.hxx
+END
+PortAudioCpp.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/PortAudioCpp.hxx
+END
+AsioDeviceAdapter.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/AsioDeviceAdapter.hxx
+END
+AutoSystem.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/AutoSystem.hxx
+END
+CallbackInterface.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/CallbackInterface.hxx
+END
+SystemDeviceIterator.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/SystemDeviceIterator.hxx
+END
+StreamParameters.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/StreamParameters.hxx
+END
+MemFunCallbackStream.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/bindings/cpp/include/portaudiocpp/MemFunCallbackStream.hxx
+END

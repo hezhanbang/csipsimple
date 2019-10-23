@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings
+END
+WarningSDCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningSDCard.java
+END
+WarningUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningUtils.java
+END
+WarningVpnIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningVpnIcs.java
+END
+WarningFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningFragment.java
+END
+WarningNoStun.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningNoStun.java
+END
+WarningPrivilegedIntent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2230/branches/stable-01.00/src/com/csipsimple/ui/warnings/WarningPrivilegedIntent.java
+END

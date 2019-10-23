@@ -1,0 +1,97 @@
+10
+
+dir
+2470
+http://csipsimple.googlecode.com/svn/vendor/ippi/locale/csipsimple
+http://csipsimple.googlecode.com/svn
+
+
+
+2010-12-06T10:25:10.029392Z
+405
+r3gis.3R@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+wizard_strings
+dir
+
+in_call_strings
+dir
+
+wizard_basic_strings
+dir
+
+prefs_choices
+dir
+
+wizard_callcentric_strings
+dir
+
+descriptions_strings
+dir
+
+messages_strings
+dir
+
+wizard_onsip_strings
+dir
+
+wizard_common_strings
+dir
+
+wizard_sipgate_strings
+dir
+
+acct_status_strings
+dir
+
+prefs_strings
+dir
+
+wizard_authorization_strings
+dir
+
+strings
+dir
+
+log_strings
+dir
+
+wizard_advanced_strings
+dir
+
+wizard_expert_strings
+dir
+
+wizard_iinet_strings
+dir
+
+arrays
+dir
+
+wizard_magicjack_strings
+dir
+
+wizard_ecs_strings
+dir
+
+welcome_strings
+dir
+
+filters_choices
+dir
+

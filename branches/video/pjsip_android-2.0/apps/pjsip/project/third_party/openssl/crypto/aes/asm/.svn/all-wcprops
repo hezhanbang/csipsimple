@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/aes/asm
+END
+aes-ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/aes/asm/aes-ia64.S
+END
+aes-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/aes/asm/aes-x86_64.pl
+END
+aes-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/aes/asm/aes-586.pl
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++
+END
+hash.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/hash.hpp
+END
+types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/types.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/string.hpp
+END
+lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/lock.hpp
+END
+scanner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/scanner.hpp
+END
+pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/pool.hpp
+END
+proactor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/proactor.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/list.hpp
+END
+file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/file.hpp
+END
+sock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/sock.hpp
+END
+tree.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/tree.hpp
+END
+timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/timer.hpp
+END
+os.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/include/pj++/os.hpp
+END

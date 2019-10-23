@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1111/tags/0.03/jni/csipsimple-wrapper/src
+END
+zrtp_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1111/tags/0.03/jni/csipsimple-wrapper/src/zrtp_android.c
+END
+pjsua_jni_addons.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1111/tags/0.03/jni/csipsimple-wrapper/src/pjsua_jni_addons.c
+END
+ndk_stl_fixer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/tags/0.03/jni/csipsimple-wrapper/src/ndk_stl_fixer.cpp
+END

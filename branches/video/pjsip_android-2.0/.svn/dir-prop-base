@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 130
+build
+docs
+platforms
+samples
+sources
+tests
+toolchains
+documentation.html
+GNUmakefile
+ndk-build
+ndk-gdb
+README.TXT
+RELEASE.TXT
+out
+
+END

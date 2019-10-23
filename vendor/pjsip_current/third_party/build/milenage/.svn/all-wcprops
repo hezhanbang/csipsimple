@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/milenage
+END
+libmilenage.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/milenage/libmilenage.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/milenage/Makefile
+END
+libmilenage.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/milenage/libmilenage.vcp
+END
+libmilenage.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/build/milenage/libmilenage.vcproj
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4
+END
+test_pjsip_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/test_pjsip_wince.vcp
+END
+pjsua_lib_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/pjsua_lib_wince.vcp
+END
+pjsip_ua_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/pjsip_ua_wince.vcp
+END
+pjsip_wince.vcw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/pjsip_wince.vcw
+END
+pjsip_core_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/pjsip_core_wince.vcp
+END
+pjsip_simple_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10/vendor/pjsip_current/pjsip/build/wince-evc4/pjsip_simple_wince.vcp
+END

@@ -1,0 +1,92 @@
+10
+
+dir
+2470
+http://csipsimple.googlecode.com/svn/branches/level7/CSipSimple/src/com/csipsimple
+http://csipsimple.googlecode.com/svn
+
+
+
+2011-05-23T11:11:40.565732Z
+874
+level7systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+widgets
+dir
+
+Login.java
+file
+
+
+
+
+2016-01-08T02:19:56.626278Z
+06cad3b05ff4be8fde50e4fdc52ee281
+2011-05-23T11:11:40.565732Z
+874
+level7systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11536
+
+api
+dir
+
+ui
+dir
+
+animation
+dir
+
+utils
+dir
+
+service
+dir
+
+models
+dir
+
+wizards
+dir
+
+pjsip
+dir
+
+db
+dir
+

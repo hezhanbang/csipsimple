@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-win32.mak
+END
+pjlib++-test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib++-test.dsp
+END
+pjlib_samples.mak
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib_samples.mak
+END
+pjlib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib.dsw
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-sunos.mak
+END
+pjlib_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib_test.vcproj
+END
+pjlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib.vcproj
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-linux-kernel.mak
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-auto.mak.in
+END
+pjlib_samples.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib_samples.dsp
+END
+privkey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/privkey.pem
+END
+pjlib++.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib++.dsp
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-darwinos.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/Makefile
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-rtems.mak
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/cacert.pem
+END
+pjlib_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib_test.dsp
+END
+pjlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/pjlib.dsp
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/os-linux.mak
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/build/Android.mk
+END

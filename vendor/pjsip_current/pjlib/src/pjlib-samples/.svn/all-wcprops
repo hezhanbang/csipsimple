@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/src/pjlib-samples
+END
+except.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/src/pjlib-samples/except.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/src/pjlib-samples/list.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib/src/pjlib-samples/log.c
+END

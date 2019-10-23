@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto
+END
+mem_dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/mem_dbg.c
+END
+o_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_str.h
+END
+o_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_dir.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/Makefile
+END
+cryptlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/cryptlib.h
+END
+cpt_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/cpt_err.c
+END
+LPdir_wince.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_wince.c
+END
+o_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_dir.h
+END
+opensslconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/opensslconf.h.in
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/Android.mk
+END
+ex_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/ex_data.c
+END
+sparccpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/sparccpuid.S
+END
+mem_clr.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/mem_clr.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/mem.c
+END
+opensslv.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/opensslv.h
+END
+uid.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/uid.c
+END
+crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/crypto.h
+END
+LPdir_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_win.c
+END
+symhacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/symhacks.h
+END
+cversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/cversion.c
+END
+LPdir_nyi.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_nyi.c
+END
+o_dir_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_dir_test.c
+END
+LPdir_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_win32.c
+END
+opensslconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/opensslconf.h
+END
+LPdir_vms.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_vms.c
+END
+install.com
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/install.com
+END
+x86cpuid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/x86cpuid.pl
+END
+ia64cpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/ia64cpuid.S
+END
+tmdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/tmdiff.c
+END
+ebcdic.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/ebcdic.c
+END
+o_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_time.c
+END
+x86_64cpuid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/x86_64cpuid.pl
+END
+LPdir_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/LPdir_unix.c
+END
+tmdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/tmdiff.h
+END
+ebcdic.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/ebcdic.h
+END
+crypto-lib.com
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/crypto-lib.com
+END
+o_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_time.h
+END
+ossl_typ.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/ossl_typ.h
+END
+md32_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/md32_common.h
+END
+o_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/o_str.c
+END
+cryptlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/openssl/crypto/cryptlib.c
+END

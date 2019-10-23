@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine
+END
+ViEAndroidGLES20.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/ViEAndroidGLES20.java
+END
+ViESurfaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/ViESurfaceRenderer.java
+END
+CaptureCapabilityAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/CaptureCapabilityAndroid.java
+END
+VideoCaptureDeviceInfoAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/VideoCaptureDeviceInfoAndroid.java
+END
+ViERenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/ViERenderer.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/README.txt
+END
+VideoCaptureAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2230/branches/stable-01.00/src/org/webrtc/videoengine/VideoCaptureAndroid.java
+END

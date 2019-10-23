@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian
+END
+libgsmcodec.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libgsmcodec.mmp
+END
+makedef.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/makedef.sh
+END
+symbian_ua_udeb.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_ua_udeb.pkg
+END
+pjnathU.def
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjnathU.def
+END
+symbian_ua.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_ua.pkg
+END
+pjsdp.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsdp.mmp
+END
+pjlib_utilU.def
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlib_utilU.def
+END
+symbian_ua.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_ua.mmp
+END
+pjmedia_audiodev.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjmedia_audiodev.mmp
+END
+pjlib_util.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlib_util.mmp
+END
+pjsip_simple.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsip_simple.mmp
+END
+libresample.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libresample.mmp
+END
+pjlib.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlib.mmp
+END
+pjsua_libU.def
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsua_libU.def
+END
+pjsip_uaU.def
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsip_uaU.def
+END
+symsndtest.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symsndtest.pkg
+END
+symbian_ua_urel.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_ua_urel.pkg
+END
+pjproject.cww
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjproject.cww
+END
+libspeexcodec.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libspeexcodec.mmp
+END
+pjsdpU.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsdpU.def
+END
+symsndtest.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symsndtest.mmp
+END
+symbian_audioU.def
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_audioU.def
+END
+libsrtp.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libsrtp.mmp
+END
+pjsipU.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsipU.def
+END
+pjstun_client.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjstun_client.mmp
+END
+symbian_audio.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/symbian_audio.mmp
+END
+bld.inf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/bld.inf
+END
+pjnath.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjnath.mmp
+END
+null_audioU.def
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/null_audioU.def
+END
+pjsip.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsip.mmp
+END
+libg7221codec.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libg7221codec.mmp
+END
+pjlib_test.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlib_test.pkg
+END
+pjsip_simpleU.def
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsip_simpleU.def
+END
+pjlibU.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlibU.def
+END
+null_audio.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/null_audio.mmp
+END
+libpassthroughcodec.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/libpassthroughcodec.mmp
+END
+00.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/00.bat
+END
+01.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/01.bat
+END
+pjlib_test.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjlib_test.mmp
+END
+pjmediaU.def
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjmediaU.def
+END
+pjsua_lib.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsua_lib.mmp
+END
+pjmedia.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjmedia.mmp
+END
+pjsip_ua.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/build.symbian/pjsip_ua.mmp
+END

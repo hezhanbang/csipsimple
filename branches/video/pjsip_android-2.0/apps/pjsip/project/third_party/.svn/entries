@@ -1,0 +1,107 @@
+10
+
+dir
+2470
+http://csipsimple.googlecode.com/svn/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party
+http://csipsimple.googlecode.com/svn
+
+
+
+2011-03-17T10:51:13.309376Z
+729
+r3gis.3R@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+9f815046-5998-e9c0-b7e2-ac03a23edfa4
+
+g729
+dir
+
+srtp
+dir
+
+build
+dir
+
+codec2
+dir
+
+mp3
+dir
+
+g7221
+dir
+
+silk
+dir
+
+portaudio
+dir
+
+resample
+dir
+
+ilbc
+dir
+
+README.txt
+file
+
+
+
+
+2016-01-08T02:19:07.803241Z
+62d2d909bb2842156b8fd76bd21a121f
+2010-04-02T08:56:07.742362Z
+5
+r3gis3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+407
+
+zrtp4pj
+dir
+
+milenage
+dir
+
+openssl
+dir
+
+speex
+dir
+
+gsm
+dir
+

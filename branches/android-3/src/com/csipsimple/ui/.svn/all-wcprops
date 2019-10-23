@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui
+END
+Dialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/Dialer.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/Preferences.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/BuddyList.java
+END
+SipHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/SipHome.java
+END
+CallHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/CallHandler.java
+END
+AccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/AccountsList.java
+END
+WelcomeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/WelcomeScreen.java
+END
+CStackUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/35/branches/android-3/src/com/csipsimple/ui/CStackUpdater.java
+END

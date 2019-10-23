@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test
+END
+patest_out_underflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_out_underflow.c
+END
+patest_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine.c
+END
+patest_latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_latency.c
+END
+pa_devs.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/pa_devs.c
+END
+patest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest1.c
+END
+patest_stop_playout.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_stop_playout.c
+END
+patest_start_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_start_stop.c
+END
+patest_many.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_many.c
+END
+patest_underflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_underflow.c
+END
+patest_wmme_surround.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_wmme_surround.c
+END
+debug_multi_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_multi_in.c
+END
+patest_wire.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_wire.c
+END
+patest_two_rates.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_two_rates.c
+END
+debug_record_reuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_record_reuse.c
+END
+debug_multi_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_multi_out.c
+END
+patest_sine_channelmaps.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine_channelmaps.c
+END
+patest_mono.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_mono.c
+END
+patest_multi_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_multi_sine.c
+END
+patest_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_buffer.c
+END
+patest_mono_asio_channel_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_mono_asio_channel_select.c
+END
+debug_dual.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_dual.c
+END
+patest_read_write_wire.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_read_write_wire.c
+END
+patest_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sync.c
+END
+patest_sine_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine_time.c
+END
+patest_ringmix.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_ringmix.c
+END
+patest_hang.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_hang.c
+END
+patest_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_record.c
+END
+debug_sine_formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_sine_formats.c
+END
+patest_dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_dither.c
+END
+debug_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_sine.c
+END
+pa_minlat.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/pa_minlat.c
+END
+debug_test1.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_test1.c
+END
+patest_sine8.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine8.c
+END
+patest_timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_timing.c
+END
+patest_clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_clip.c
+END
+patest_saw.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_saw.c
+END
+patest_sine_srate.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine_srate.c
+END
+patest_dsound_surround.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_dsound_surround.c
+END
+paqa_errs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/paqa_errs.c
+END
+pa_fuzz.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/pa_fuzz.c
+END
+patest_write_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_write_stop.c
+END
+patest_pink.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_pink.c
+END
+patest_callbackstop.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_callbackstop.c
+END
+debug_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_record.c
+END
+debug_srate.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_srate.c
+END
+debug_convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_convert.c
+END
+patest_write_sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_write_sine.c
+END
+patest_read_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_read_record.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/README.txt
+END
+patest_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_prime.c
+END
+patest_longsine.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_longsine.c
+END
+debug_sine_amp.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_sine_amp.c
+END
+paqa_devs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/paqa_devs.c
+END
+patest_stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_stop.c
+END
+debug_dither_calc.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/debug_dither_calc.c
+END
+patest_maxsines.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_maxsines.c
+END
+patest_leftright.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_leftright.c
+END
+patest_toomanysines.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_toomanysines.c
+END
+patest_in_overflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_in_overflow.c
+END
+patest_sine_formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_sine_formats.c
+END
+patest_converters.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_converters.c
+END
+patest_wmme_ac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/test/patest_wmme_ac3.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher
+END
+null_cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher/null_cipher.c
+END
+aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher/aes.c
+END
+cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher/cipher.c
+END
+aes_cbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher/aes_cbc.c
+END
+aes_icm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/cipher/aes_icm.c
+END

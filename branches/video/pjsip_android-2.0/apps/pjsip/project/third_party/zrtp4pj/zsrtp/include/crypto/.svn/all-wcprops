@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto
+END
+skein_iv.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/skein_iv.h
+END
+brg_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/brg_endian.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/hmac.h
+END
+skein.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/skein.h
+END
+macSkein.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/macSkein.h
+END
+skein_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/skein_port.h
+END
+brg_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/brg_types.h
+END
+AesSrtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/AesSrtp.h
+END
+skeinApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/include/crypto/skeinApi.h
+END

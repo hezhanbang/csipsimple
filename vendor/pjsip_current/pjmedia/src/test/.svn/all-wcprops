@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test
+END
+session_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/session_test.c
+END
+codec_vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/codec_vectors.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/main.c
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/test.h
+END
+rtp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/rtp_test.c
+END
+wsola_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/wsola_test.c
+END
+jbuf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/jbuf_test.c
+END
+sdptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/sdptest.c
+END
+mips_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/mips_test.c
+END
+wince_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/wince_main.c
+END
+sdp_neg_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/sdp_neg_test.c
+END
+audio_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/audio_tool.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/src/test/test.c
+END

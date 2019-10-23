@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip
+END
+PjSipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/PjSipService.java
+END
+NativeLibManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/NativeLibManager.java
+END
+UAStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/UAStateReceiver.java
+END
+PjStreamDialtoneGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/952/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/PjStreamDialtoneGenerator.java
+END
+PjSipAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/PjSipAccount.java
+END
+PjSipCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/950/branches/external-pjsip-jni/CSipSimple/src/com/csipsimple/pjsip/PjSipCalls.java
+END

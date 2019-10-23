@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src
+END
+sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/sine.c
+END
+quantise.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/quantise.h
+END
+nlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/nlp.h
+END
+codebookdvq.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/codebookdvq.c
+END
+postfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/postfilter.h
+END
+sine.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/sine.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/dump.c
+END
+glottal.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/glottal.c
+END
+dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/dump.h
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/_kiss_fft_guts.h
+END
+c2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/c2dec.c
+END
+sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/sim.sh
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/globals.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/Makefile.am
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/globals.h
+END
+codebookd.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/codebookd.c
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/lsp.c
+END
+listensim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/listensim.sh
+END
+codec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/codec2.c
+END
+generate_codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/generate_codebook.c
+END
+fq20.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/fq20.sh
+END
+phase.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/phase.c
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/interp.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/Makefile.in
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/lsp.h
+END
+comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/comp.h
+END
+codec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/codec2.h
+END
+phase.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/phase.h
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/interp.h
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/kiss_fft.c
+END
+c2demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/c2demo.c
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/kiss_fft.h
+END
+c2sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/c2sim.c
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/pack.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/lpc.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/fft.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/defines.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/lpc.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/fft.h
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/codebook.c
+END
+quantise.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/quantise.c
+END
+nlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/nlp.c
+END
+c2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/c2enc.c
+END
+postfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/codec2/src/postfilter.c
+END

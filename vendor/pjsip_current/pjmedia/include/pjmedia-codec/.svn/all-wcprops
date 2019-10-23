@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec
+END
+speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/speex.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/config.h
+END
+gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/gsm.h
+END
+passthrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/passthrough.h
+END
+ipp_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/ipp_codecs.h
+END
+ilbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/ilbc.h
+END
+amr_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/amr_helper.h
+END
+g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/g722.h
+END
+g7221.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/g7221.h
+END
+config_auto.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/config_auto.h.in
+END
+l16.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/pjmedia/include/pjmedia-codec/l16.h
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/52/vendor/pjsip_current
+END
+c++-build.mak
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/vendor/pjsip_current/c++-build.mak
+END
+self-test.mak
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/vendor/pjsip_current/self-test.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/vendor/pjsip_current/Makefile
+END
+svn_add
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/vendor/pjsip_current/svn_add
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/vendor/pjsip_current/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/vendor/pjsip_current/configure
+END
+aconfigure
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/vendor/pjsip_current/aconfigure
+END
+configure-legacy
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/configure-legacy
+END
+svn_add.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/vendor/pjsip_current/svn_add.bat
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/vendor/pjsip_current/INSTALL.txt
+END
+README-RTEMS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/vendor/pjsip_current/README-RTEMS
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/vendor/pjsip_current/config.guess
+END
+version.mak
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/vendor/pjsip_current/version.mak
+END
+pjproject.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/vendor/pjsip_current/pjproject.dsw
+END
+libpjproject.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/libpjproject.pc.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/vendor/pjsip_current/config.sub
+END
+svn_pset
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/vendor/pjsip_current/svn_pset
+END
+aconfigure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/vendor/pjsip_current/aconfigure.ac
+END
+user.mak.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/vendor/pjsip_current/user.mak.sample
+END
+svn_pset.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/vendor/pjsip_current/svn_pset.bat
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/vendor/pjsip_current/COPYING
+END
+pjproject-vs8.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/vendor/pjsip_current/pjproject-vs8.sln
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/vendor/pjsip_current/README.txt
+END
+build.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/vendor/pjsip_current/build.mak.in
+END

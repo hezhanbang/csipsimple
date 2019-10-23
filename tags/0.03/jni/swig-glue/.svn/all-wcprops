@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue
+END
+ignored_methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/ignored_methods.txt
+END
+pj_loader.c.template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/pj_loader.c.template
+END
+clean_callback_for_android.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/clean_callback_for_android.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/Makefile
+END
+JavaJNI2CJNI_Load.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/JavaJNI2CJNI_Load.py
+END
+clean_source_for_android.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/clean_source_for_android.py
+END
+clean_header_for_swig.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/clean_header_for_swig.py
+END
+pjsua.i_header
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1111/tags/0.03/jni/swig-glue/pjsua.i_header
+END

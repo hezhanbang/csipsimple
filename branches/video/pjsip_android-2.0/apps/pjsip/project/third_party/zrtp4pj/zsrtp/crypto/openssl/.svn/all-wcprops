@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl
+END
+AesSrtp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/AesSrtp.cpp
+END
+AesCFB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/AesCFB.cpp
+END
+hmac256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/hmac256.cpp
+END
+hmac384.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/hmac384.cpp
+END
+.kdev_include_paths
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/.kdev_include_paths
+END
+sha256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/sha256.cpp
+END
+hmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/hmac.cpp
+END
+sha384.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/sha384.cpp
+END
+ZrtpDH.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/639/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/zrtp4pj/zsrtp/crypto/openssl/ZrtpDH.cpp
+END

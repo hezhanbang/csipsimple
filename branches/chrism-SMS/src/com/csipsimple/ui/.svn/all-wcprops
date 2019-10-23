@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/485/branches/chrism-SMS/src/com/csipsimple/ui
+END
+Dialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/Dialer.java
+END
+InCallMediaControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/InCallMediaControl.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/336/branches/chrism-SMS/src/com/csipsimple/ui/BuddyList.java
+END
+SipHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/SipHome.java
+END
+OutgoingCallChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/OutgoingCallChooser.java
+END
+AccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/AccountsList.java
+END
+AccountsChooserListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/AccountsChooserListActivity.java
+END
+CallLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/CallLog.java
+END
+InCallActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/InCallActivity.java
+END
+AccountFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/336/branches/chrism-SMS/src/com/csipsimple/ui/AccountFilters.java
+END
+PickupSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/PickupSipUri.java
+END
+WelcomeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/WelcomeScreen.java
+END
+EditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/EditFilter.java
+END
+CallLogsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/417/branches/chrism-SMS/src/com/csipsimple/ui/CallLogsList.java
+END
+ReorderAccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/484/branches/chrism-SMS/src/com/csipsimple/ui/ReorderAccountsList.java
+END

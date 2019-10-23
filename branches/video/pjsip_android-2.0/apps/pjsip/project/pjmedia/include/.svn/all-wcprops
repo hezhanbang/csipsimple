@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include
+END
+pjmedia-codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/641/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia-codec.h
+END
+pjmedia_audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia_audiodev.h
+END
+pjmedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/729/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia.h
+END
+pjmedia_videodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/918/branches/video/pjsip_android-2.0/apps/pjsip/project/pjmedia/include/pjmedia_videodev.h
+END

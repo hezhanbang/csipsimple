@@ -1,0 +1,153 @@
+#summary How to use the filters and also how they work
+#labels Phase-Deploy
+
+= Introduction =
+<img src="http://solo.dc3.com/extimage/csfilt1-sm.png" align="right" />
+
+It is often useful to be able to alter certain actions based on the phone number to be dialed. Also, sometimes the contact phone numbers are in a form that cannot be used for SIP calls, and thus need to be rewritten for the needs of the SIP switch/account. These things are handled by *filters* in the application. Important points:
+
+  * Filters are applied when the application's "outgoing call chooser" appears:<br> http://solo.dc3.com/extimage/csfilt5-sm.png
+  * Filters are specific to each account.
+  * Filters may also be set for the native phone dialer.
+  * A filter has a match type and pattern (a _rule_), plus an action to perform if the phone number matches the rule.
+  * A filter operates based on the rule, and if the phone number matches the rule, the selected action occurs.
+  * There are several types of matching such as _starts-with_ and _ends-with_.
+  * Multiple filters may be set up for an account or the dialer.
+  * If multiple filters are set, they are run in the order listed
+  * Mutiple rewriting filters may be set up, and the input to each is the output of the previous rewrite filter, or the original number for the first rewrite filter in the list.
+  * The application will automatically remove separators (e.g., spaces, parentheses, and '-') from phone numbers before sending them through the filters.
+
+Filters are a very powerful feature of the application, so use your imagination and creativity and you can probably solve the problem you have. Filters are much more powerful and flexible than the more common "dial plan" features found on other SIP phones. 
+
+= Creating and Editing Filters =
+
+The filters editor is one of the settings categories. We won't give touch-by-touch directions here, it's assumed you'll be able figure the user interface out. It is intuitive and simple. Once you're in the filters main screen, you'll see a list of SIP accounts and, at the bottom, a Dialer entry (which acts like an account but for the native dialer). Touching an account starts the filter editor for that account. Now you can add a new filter or edit an existing one (by touching it in the list). Delete a filter with a long-touch and then touching _Delete filter_.
+
+== Some Common Examples of Filter Use ==
+
+Most commonly, filters are used for implementing "dial plans" as used on other SIP phones. Let's say you have contacts in your phone which have full international/[http://en.wikipedia.org/wiki/E.123 E.123] format phone numbers, an internal extension number, and a [#SIP_Addresses full SIP address]:<br>
+http://solo.dc3.com/extimage/csfilt4-sm.png
+
+Let's also say your country code is 1 and you have a SIP account for a provider or company switch and it requires the following number formats for successful (outside) dialing:
+
+  * *National calling:* 1 followed by the area code and number (14513297452)
+  * *International calling:* 011 followed by the country code, area code, and number (01144632548721)
+  * *Emergency:* 911
+
+See [Multiple_Filters Multiple Filters]
+
+=== International Format Numbers ===
+
+Your full phone numbers are in E.123 format, so some rewriting will be needed on the account for your provider or company switch:
+
+  * If the number starts with +1 just remove the +
+  * Otherwise, remove the + and prepend 011
+
+In the US, mobile phone companies use these same formats, so you will need the same filters applied to the Dialer. By the way, there is a very useful Android application [http://code.google.com/p/android-contacts-cleanup/ Contacts Cleanup] which will format all of your contact phone numbers into the international/E.123 format.
+
+=== Internal Extensions ===
+
+For a company SIP switch, internal extensions (usually just three digits) cannot be dialed with the mobile Dialer and must always be dialed via your company SIP switch account. For this, you would use a filter on your company switch account which looks for exactly 3 digits and has an action of _direct call_. This forces the application to immediately use the company switch account for internal extensions. The outgoing call chooser never appears.
+
+In the US, emergency dialing is also three digits, 911. Let's say you want 911 to always be dialed with your mobile phone and not any SIP account (so the E911 service gets your GPS coordinates). For this, you would use a filter on the mobile dialer that looks for exactly 911 and has an action of _direct call_. This forces the application to immediately use the mobile dialer for emergency calls. The outgoing call chooser never appears.
+
+=== SIP Addresses ===
+
+The application will treat a custom IM address with the label *SIP* as a phone number. It should be a full SIP URI such as george-mobile@sip.acme.com, so it will contain an '@'. Clearly this cannot be dialed via the mobile dialer, and you probably want to use a specific account to make these direct SIP calls. On that account, use a filter on the account that looks for @ in the "number" and has an action of _direct call_. This forces the application to immediately use that account for direct SIP calls. The outgoing call chooser never appears.
+
+== Multiple Filters ==
+
+You can create multiple filters on an account. They will be run in the order listed. <u>You can reorder the filters by dragging and dropping</u>. Touch and drag by the gray icon on the left edge of the filter entry in the list. Note that the _Can't call_ and _Directly call_ filter actions happen immediately; any filters listed afterward will not run if these actions occur.
+
+= Reference =
+<img src="http://solo.dc3.com/extimage/csfilt3-sm.png" align="right" />
+This section describes the filter rules and the actions that can occur if the phone number matches the rule. A _rule_ consists of a match type and some value you supply such as a match pattern or a numeric value. An _action_ is what happens if the rule is matched. In the filter editor, the action is selected at the top and the rule is specified in the box below that. If the action is _Rewrite_ a third area appears in which you specify some prefix, suffix, or replacement text. 
+
+== Actions ==
+
+=== Can't Call ===
+
+A matching number will prevent this account from showing in the outgoing call chooser.
+
+=== Directly Call ===
+
+A matching number will force this account to be immediately used for calling. The outgoing call chooser will not be shown.
+
+=== Rewrite ===
+
+A matching number will be rewritten according to the [UsingFilters#Replacements replacement action]. The rewritten number will be passed along to the next filter (if any) as input.
+
+=== Stop Processing ===
+
+A matching number will not be passed along to the next filter (if any). Instead, it will be used as-is. 
+
+=== Auto Answer ===
+
+_to be written_
+
+== Match Types ==
+
+Numbers can consist of digits, letters, and/or punctuation. 
+
+=== Starts with ===
+
+The number is matched if it starts with the given text.
+
+=== Ends with ===
+
+The number is matched if it ends with the given text.
+
+=== Contains ===
+
+The number is matched if it contains the given text anywhere within it.
+
+=== All ===
+
+The number is always matched.
+
+=== Has exactly N digit ===
+
+The number is matched if it is exactly the given length.
+
+=== Has more than N digit ===
+
+The number is matched if it is the given length or longer.
+
+=== Is exactly ===
+
+The number is matched if it is exactly the same as the given text.
+
+=== Custom RegExp ===
+
+Matching is specified by the given [http://developer.android.com/reference/java/util/regex/Pattern.html Java regular expression]. The regular expression pattern can contain one or more _capturing groups_, useful for Rewrite filters with the Custom RegExp replacement type.
+
+== Replacement Types ==
+
+This applies only to the [UsingFilters#Rewrite Rewrite action].
+
+=== Prefix by ===
+
+The given text is put before the beginning of the matched text in the number.
+
+=== Suffix with ===
+
+The given text is put at the end of the matched text in the number.
+
+=== Replace match by ===
+
+The given text replaces the matched text in the number. The unmatched text in the number remains. Examples:
+
+  * 3451209 starts with 345 replace match with 987 results in 9871209.
+  * joe@foo.com contains foo replace match with bar results in joe@bar.com
+
+=== Replace all by ===
+
+The given text replaces the entire number.
+
+=== Custom RegExp ===
+
+Useful only if the match type is also Custom RegExp, and if the match regular expression pattern contains one or more _capturing groups_. In this case, the captured text for each group (left to right) can be specified with $1, $2, etc,. and the entire matched string can be specified with $0. For more information see the documentation of [http://developer.android.com/reference/java/util/regex/Pattern.html java.util.regex.Pattern].
+
+= Tips and Tricks =
+
+_ to be written_

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat
+END
+sigjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat/sigjmp.c
+END
+string_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat/string_compat.c
+END
+setjmp_i386.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat/setjmp_i386.S
+END
+longjmp_i386.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat/longjmp_i386.S
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib/src/pj/compat/string.c
+END

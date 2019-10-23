@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev
+END
+webrtc_android_render_dev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/webrtc_android_render_dev.cpp
+END
+webrtc_android_capture_dev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/webrtc_android_capture_dev.cpp
+END
+opengl_video_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/opengl_video_dev.c
+END
+android_screen_capture_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/android_screen_capture_dev.c
+END
+android_capture_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2230/branches/stable-01.00/jni/pjsip/android_sources/pjmedia/src/pjmedia-videodev/android_capture_dev.c
+END

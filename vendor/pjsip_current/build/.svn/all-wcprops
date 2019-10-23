@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/vendor/pjsip_current/build
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-sunos.mak
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-x86_64.mak
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/build/common.mak
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/vendor/pjsip_current/build/rules.mak
+END
+cc-vc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/vendor/pjsip_current/build/cc-vc.mak
+END
+host-mingw.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/vendor/pjsip_current/build/host-mingw.mak
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-auto.mak.in
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-linux-kernel.mak
+END
+host-unix.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/vendor/pjsip_current/build/host-unix.mak
+END
+m-sparc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-sparc.mak
+END
+m-auto.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-auto.mak
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-darwinos.mak
+END
+m-mpc860.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-mpc860.mak
+END
+m-arm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-arm.mak
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-rtems.mak
+END
+m-powerpc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-powerpc.mak
+END
+os-palmos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-palmos.mak
+END
+host-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/vendor/pjsip_current/build/host-win32.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-linux.mak
+END
+cc-gcc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/build/cc-gcc.mak
+END
+m-m68k.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-m68k.mak
+END
+m-alpha.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-alpha.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/vendor/pjsip_current/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/vendor/pjsip_current/build/m-i386.mak
+END

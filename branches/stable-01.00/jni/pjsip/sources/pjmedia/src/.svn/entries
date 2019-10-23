@@ -1,0 +1,43 @@
+10
+
+dir
+4516
+http://svn.pjsip.org/repos/pjproject/trunk/pjmedia/src
+http://svn.pjsip.org/repos
+
+
+
+2013-04-30T09:00:36.845159Z
+4512
+bennylp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+pjmedia-codec
+dir
+
+pjmedia-audiodev
+dir
+
+pjmedia
+dir
+
+pjmedia-videodev
+dir
+
+test
+dir
+

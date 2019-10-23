@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/sha1.h
+END
+xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/xml.h
+END
+resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/resolver.h
+END
+stun_simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/stun_simple.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/getopt.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/config.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/string.h
+END
+dns_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/dns_server.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/crc32.h
+END
+scanner_cis_bitwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h
+END
+http_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/http_client.h
+END
+hmac_md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/hmac_md5.h
+END
+pcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/pcap.h
+END
+hmac_sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/hmac_sha1.h
+END
+dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/dns.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/base64.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/errno.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/md5.h
+END
+scanner_cis_uint.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/scanner_cis_uint.h
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/scanner.h
+END
+srv_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjlib-util/include/pjlib-util/srv_resolver.h
+END

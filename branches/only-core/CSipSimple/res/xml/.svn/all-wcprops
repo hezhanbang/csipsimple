@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml
+END
+w_ekiga_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/w_ekiga_preferences.xml
+END
+prefs_network.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/prefs_network.xml
+END
+w_basic_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/w_basic_preferences.xml
+END
+w_freephonie_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/w_freephonie_preferences.xml
+END
+prefs_ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/prefs_ui.xml
+END
+w_expert_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/w_expert_preferences.xml
+END
+prefs_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/prefs_media.xml
+END
+w_ecs_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/96/branches/only-core/CSipSimple/res/xml/w_ecs_preferences.xml
+END

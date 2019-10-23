@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/756/branches/level7/CSipSimple/src/com/csipsimple/service
+END
+MediaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/MediaManager.java
+END
+SipWakeLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/SipWakeLock.java
+END
+SipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/756/branches/level7/CSipSimple/src/com/csipsimple/service/SipService.java
+END
+IDownloadLibServiceCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/IDownloadLibServiceCallback.aidl
+END
+HeadsetButtonReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/HeadsetButtonReceiver.java
+END
+DownloadLibService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/DownloadLibService.java
+END
+IDownloadLibService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/IDownloadLibService.aidl
+END
+DeviceStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/DeviceStateReceiver.java
+END
+SipNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/756/branches/level7/CSipSimple/src/com/csipsimple/service/SipNotifications.java
+END
+OutgoingCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/731/branches/level7/CSipSimple/src/com/csipsimple/service/OutgoingCall.java
+END

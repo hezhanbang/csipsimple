@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/os-rtems.mak
+END
+pjsip.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip.dsw
+END
+pjsip_core.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_core.dsp
+END
+pjsip_simple.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_simple.dsp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/Android.mk
+END
+pjsip_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_test.vcproj
+END
+pjsua_lib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsua_lib.dsp
+END
+pjsip_core.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_core.vcproj
+END
+pjsip_ua.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_ua.dsp
+END
+pjsip_simple.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_simple.vcproj
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/os-auto.mak.in
+END
+pjsip_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_test.dsp
+END
+pjsua_lib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsua_lib.vcproj
+END
+pjsip_ua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/pjsip_ua.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/740/branches/video/pjsip_android-2.0/apps/pjsip/project/pjsip/build/Makefile
+END

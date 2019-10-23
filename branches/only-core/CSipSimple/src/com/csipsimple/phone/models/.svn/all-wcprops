@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models
+END
+CallInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/CallInfo.aidl
+END
+AccountInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/AccountInfo.aidl
+END
+RemoteLibInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/RemoteLibInfo.aidl
+END
+CallInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/CallInfo.java
+END
+AccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/AccountInfo.java
+END
+DownloadProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/DownloadProgress.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/Account.java
+END
+CallerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/CallerInfo.java
+END
+RemoteLibInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/101/branches/only-core/CSipSimple/src/com/csipsimple/phone/models/RemoteLibInfo.java
+END

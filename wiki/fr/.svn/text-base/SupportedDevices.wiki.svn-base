@@ -1,0 +1,20 @@
+#summary Cette page liste de manière non exhaustive les terminaux ainsi que les firmwares sur lesquels CSipSimple fonctionne
+#labels Phase-Deploy
+
+= Introduction =
+
+Le driver audio est maintenant basé sur une méthode plus officielle (JNI) et n'adresse plus les drivers bas niveau des différents constructeurs. Cela doit fonctionner sur la plupart des terminaux quelque soit le constructeur. Il est recommandé d'utiliser Android 1.6 ou plus.
+
+Quelques restrictions toutefois :
+
+= Incompatibilités connues =
+ * Des terminaux basés sur la plateforme ARMv4 - Si vous avez un de ces terminaux et que vous souahitez nous aider à le supporter, envoyez nous son *_Device Name_*. Pour cela installer depuis l'Android Market une application comme DeviceInfo qui vous donnera le nom exact du modèle (certains constructeurs ont un nom commercxail et un nom logique)
+
+= Quelques bugs de route audio =
+Si le haut parleur arrière reçois le flux audio, il peut en résulter un écho important ou pas de son du tout.
+ * Samsung Galaxy S (impossible de changer le niveau sonore - voir issue 254 - contournéer via le gain audio)
+ * Sony Ericsson Xperia X10 et X10 mini (Enregistrement simultané du mirco et de l'entrée ligne. Tout ce qui est envoyé vers le haut parleur est capturé par le micro...)
+ * Samsung Galaxy Europe i5500 (Le son est dirigé vers le haut parleur arrière - voir issue 258)
+
+Souvent les problèmes audio sont de la responsabilité des contructeurs et probablement Android également qui ne défini pas clairement ce que les contructeurs ont à faire exactement.
+Soyez donc indulgents vis-à-vis des applications SIP / VoIP face à ce type de problème. Résoudre ces soucis est souvent long et nécessite de trouver des contournements. De plus, avoir physiquement l'appareil est souvent nécessaire pour tester le fonctionnement. En d'autres termes, vous êtes les bienvenu pour nous aidez et faites preuve de patience.

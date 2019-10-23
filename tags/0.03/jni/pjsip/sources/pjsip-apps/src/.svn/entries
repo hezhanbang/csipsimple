@@ -1,0 +1,70 @@
+10
+
+dir
+3886
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip-apps/src
+http://svn.pjsip.org/repos
+
+
+
+2011-10-28T05:09:53.000441Z
+3875
+bennylp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+symsndtest
+dir
+
+pocketpj
+dir
+
+ipjsystest
+dir
+
+python
+dir
+
+pjsua
+dir
+
+samples
+dir
+
+pjsua_wince
+dir
+
+symbian_ua
+dir
+
+vidgui
+dir
+
+pjsystest
+dir
+
+confbot
+dir
+
+py_pjsua
+dir
+
+ipjsua
+dir
+
+symbian_ua_gui
+dir
+

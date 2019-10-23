@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/529/branches/dc3-539/src/com/csipsimple/ui
+END
+WelcomeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/WelcomeScreen.java
+END
+EditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/520/branches/dc3-539/src/com/csipsimple/ui/EditFilter.java
+END
+CallLogsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/CallLogsList.java
+END
+ReorderAccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/ReorderAccountsList.java
+END
+Dialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/Dialer.java
+END
+InCallMediaControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/InCallMediaControl.java
+END
+BuddyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/BuddyList.java
+END
+SipHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/514/branches/dc3-539/src/com/csipsimple/ui/SipHome.java
+END
+OutgoingCallChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/OutgoingCallChooser.java
+END
+AccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/AccountsList.java
+END
+AccountsChooserListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/AccountsChooserListActivity.java
+END
+CallLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/507/branches/dc3-539/src/com/csipsimple/ui/CallLog.java
+END
+InCallActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/515/branches/dc3-539/src/com/csipsimple/ui/InCallActivity.java
+END
+AccountFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/529/branches/dc3-539/src/com/csipsimple/ui/AccountFilters.java
+END
+PickupSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/514/branches/dc3-539/src/com/csipsimple/ui/PickupSipUri.java
+END

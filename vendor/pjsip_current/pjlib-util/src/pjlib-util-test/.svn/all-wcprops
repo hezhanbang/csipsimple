@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test
+END
+resolver_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/resolver_test.c
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/xml.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/main.c
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/test.h
+END
+main_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/main_win32.c
+END
+stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/stun.c
+END
+encryption.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/encryption.c
+END
+http_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/http_client.c
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/main_rtems.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/vendor/pjsip_current/pjlib-util/src/pjlib-util-test/test.c
+END

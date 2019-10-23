@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/math
+END
+gf2_8.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/math/gf2_8.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/math/math.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/math/stat.c
+END
+datatypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/vendor/pjsip_current/third_party/srtp/crypto/math/datatypes.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/dsound
+END
+pa_win_ds_dynlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.h
+END
+pa_win_ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/dsound/pa_win_ds.c
+END
+pa_win_ds_dynlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/636/branches/video/pjsip_android-2.0/apps/pjsip/project/third_party/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.c
+END
