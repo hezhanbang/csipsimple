@@ -1,95 +1,0 @@
-10
-
-dir
-3886
-http://svn.pjsip.org/repos/pjproject/trunk/third_party
-http://svn.pjsip.org/repos
-
-
-
-2011-07-19T03:42:28.070005Z
-3664
-nanang
-has-props
-
-
-svn:externals
-
-
-
-
-
-
-
-
-
-
-74dad513-b988-da41-8d7b-12977e46ad98
-
-speex
-dir
-
-gsm
-dir
-
-lib
-dir
-
-bin
-dir
-
-resample
-dir
-
-srtp
-dir
-
-ilbc
-dir
-
-README.txt
-file
-
-
-
-
-2016-01-08T02:20:43.557335Z
-62d2d909bb2842156b8fd76bd21a121f
-2008-01-23T20:17:42.299488Z
-1730
-bennylp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-407
-
-build
-dir
-
-mp3
-dir
-
-milenage
-dir
-
-g7221
-dir
-

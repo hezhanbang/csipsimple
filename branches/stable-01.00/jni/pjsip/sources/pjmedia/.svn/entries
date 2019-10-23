@@ -1,80 +1,0 @@
-10
-
-dir
-4516
-http://svn.pjsip.org/repos/pjproject/trunk/pjmedia
-http://svn.pjsip.org/repos
-
-
-
-2013-04-30T09:00:36.845159Z
-4512
-bennylp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-74dad513-b988-da41-8d7b-12977e46ad98
-
-README.txt
-file
-
-
-
-
-2016-01-08T02:21:22.856513Z
-7b65409f4c973ea8586835fa30b90623
-2006-03-04T20:43:52.537238Z
-278
-bennylp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-372
-
-build
-dir
-
-include
-dir
-
-lib
-dir
-
-src
-dir
-
-bin
-dir
-
-docs
-dir
-

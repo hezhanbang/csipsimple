@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 29
-.classpath
-libs
-.project
-gen
-
-END

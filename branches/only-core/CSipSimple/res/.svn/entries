@@ -1,64 +1,0 @@
-10
-
-dir
-2470
-http://csipsimple.googlecode.com/svn/branches/only-core/CSipSimple/res
-http://csipsimple.googlecode.com/svn
-
-
-
-2010-05-15T15:41:56.181207Z
-103
-r3gis3r
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9f815046-5998-e9c0-b7e2-ac03a23edfa4
-
-drawable-hdpi-finger
-dir
-
-layout
-dir
-
-layout-hdpi
-dir
-
-values
-dir
-
-xml
-dir
-
-drawable-mdpi-finger
-dir
-
-drawable
-dir
-
-drawable-hdpi
-dir
-
-anim
-dir
-
-values-fr
-dir
-
-drawable-mdpi
-dir
-
-drawable-finger
-dir
-

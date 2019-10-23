@@ -1,58 +1,0 @@
-10
-
-dir
-1433
-https://subversion.assembla.com/svn/portaudio/portaudio/trunk/src/hostapi
-https://subversion.assembla.com/svn/portaudio
-
-
-
-2009-12-09T01:42:59.035126Z
-1433
-rossb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0f58301d-fd10-0410-b4af-bbb618454e57
-
-alsa
-dir
-
-wasapi
-dir
-
-oss
-dir
-
-wmme
-dir
-
-wdmks
-dir
-
-jack
-dir
-
-coreaudio
-dir
-
-asio
-dir
-
-dsound
-dir
-
-asihpi
-dir
-

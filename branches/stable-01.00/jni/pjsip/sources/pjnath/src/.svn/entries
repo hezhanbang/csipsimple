@@ -1,40 +1,0 @@
-10
-
-dir
-4516
-http://svn.pjsip.org/repos/pjproject/trunk/pjnath/src
-http://svn.pjsip.org/repos
-
-
-
-2013-03-05T06:29:15.250241Z
-4413
-ming
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-74dad513-b988-da41-8d7b-12977e46ad98
-
-pjturn-client
-dir
-
-pjnath-test
-dir
-
-pjnath
-dir
-
-pjturn-srv
-dir
-
