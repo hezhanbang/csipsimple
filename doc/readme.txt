@@ -35,3 +35,8 @@ export PATH=$ANDROID_SDK/tools/:$ANDROID_SDK/platform-tools:$PATH
 echo $ANDROID_SDK
 
 sudo apt-get install lib32stdc++6 lib32z1
+
+/src/com/csipsimple/api/SipConfigManager.java:68:    public static final String ECHO_CANCELLATION_TAIL = "echo_cancellation_tail";
+./src/com/csipsimple/api/SipConfigManager.java:114:    public static final String ECHO_CANCELLATION = "echo_cancellation";
+./src/com/csipsimple/ui/incall/InCallMediaControl.java:84:		echoCancellation = (CheckBox) findViewById(R.id.echo_cancellation);
+./src/com/csipsimple/ui/incall/InCallMediaControl.java:363:				if (bId == R.id.echo_cancellation) {
