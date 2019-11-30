@@ -31,6 +31,7 @@ vim ~/.bashrc
 export ANDROID_NDK=/home/bang/third/android-ndk-r10e
 export PATH=$ANDROID_NDK:$PATH
 echo $ANDROID_NDK
+whereis ndk-build
 
 # android sdk
 wget https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
