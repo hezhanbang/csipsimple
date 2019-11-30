@@ -24,7 +24,7 @@ https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/
 	@#mv sources/SILK_SDK_SRC_$(silk_version)/* sources/
 
 https://github.com/jacklicn/webm.libvpx.git
-
+https://android.googlesource.com/platform/external/aac
 
 apt-get install -y default-jdk ant
 
