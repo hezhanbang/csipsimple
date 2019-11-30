@@ -52,6 +52,16 @@ in csipsimpleGithub/trunk/CSipSimple:
 	android update project -p ./
 	ant release
 
+# 向apk添加数字签名
+cd csipsimpleGithub/signApk/
+./signApk.sh
+
+ 打开ecplise，创建虚拟机RAM:900 MV-Heap:32, 并开启虚拟机。
+/home/bang/third/adt-bundle-linux-x86_64-20131030/eclipse/eclipse
+
+# 等虚拟机开机完成后，把CSipSimple安装上去。
+./install2AndroidVirtualDevice.sh
+
 
 /src/com/csipsimple/api/SipConfigManager.java:68:    public static final String ECHO_CANCELLATION_TAIL = "echo_cancellation_tail";
 ./src/com/csipsimple/api/SipConfigManager.java:114:    public static final String ECHO_CANCELLATION = "echo_cancellation";
