@@ -26,7 +26,8 @@ https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/
 https://github.com/jacklicn/webm.libvpx.git
 
 
-apt-get install -y default-jdk
+apt-get install -y default-jdk ant
+
 wget https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
 wget http://dl.google.com/android/adt/adt-bundle-linux-x86_64-20131030.zip
 vim ~/.bashrc
@@ -35,6 +36,15 @@ export PATH=$ANDROID_SDK/tools/:$ANDROID_SDK/platform-tools:$PATH
 echo $ANDROID_SDK
 
 sudo apt-get install lib32stdc++6 lib32z1
+
+in csipsimpleGithub/trunk/ActionBarSherlock: 
+	android list targets
+	android update project --target 1 -p ./
+
+in csipsimpleGithub/trunk/CSipSimple:
+	android update project -p ./
+	ant release
+
 
 /src/com/csipsimple/api/SipConfigManager.java:68:    public static final String ECHO_CANCELLATION_TAIL = "echo_cancellation_tail";
 ./src/com/csipsimple/api/SipConfigManager.java:114:    public static final String ECHO_CANCELLATION = "echo_cancellation";
