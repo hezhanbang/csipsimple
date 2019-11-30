@@ -35,7 +35,8 @@ $(BUILD_DIRECTORY)/%/config.mk : sources .patched_sources
 	BUILD_PFX=jni/libvpx/$(subst config.mk,,$@) ../../sources/configure --target=$$TGT --disable-examples --sdk-path=$(NDK_ROOT)
 
 sources :
-	@ git clone https://code.google.com/p/webm.libvpx sources; \
+	# @ git clone https://code.google.com/p/webm.libvpx sources; 
+	@ git clone https://github.com/jacklicn/webm.libvpx.git sources; \
 	cd sources; \
 	git fetch --tags; \
 	git checkout origin; \
