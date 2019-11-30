@@ -21,14 +21,12 @@ unpatch :
 	@if [ -f .patched_sources ]; then quilt pop -af; rm .patched_sources; fi;
 
 sources :
-	@git clone $(fdk_url) sources; \
+	#@git clone $(fdk_url) sources; 
+	cp -rf /home/bang/third/aac . ; \
+	mv aac sources; \
 	cd sources; \
-	git fetch --tags; \
-	git checkout origin; \
 	git checkout $(fdk_tag)
 
 update : sources
-	@cd sources; \
-	git fetch --tags; \
-	git checkout origin; \
+	cd sources; \
 	git checkout $(fdk_tag)

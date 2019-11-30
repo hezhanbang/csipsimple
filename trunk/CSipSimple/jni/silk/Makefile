@@ -2,7 +2,8 @@
 patches_files := $(wildcard patches/*.diff)
 silk_version := v1.0.9
 silk_remote_folder := SILK_SDK_SRC_$(silk_version)
-silk_repo := https://developer.skype.com/silk/$(silk_remote_folder).zip
+# silk_repo := https://developer.skype.com/silk/$(silk_remote_folder).zip
+silk_repo := https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bkvoice/$(silk_remote_folder).zip
 
 all :
 	# For now we do nothing to build - it's made by android_toolchain
@@ -15,11 +16,11 @@ sources : sources/SILK_SDK_SRC_ARM_$(silk_version)
 	# source checkout done
 	
 sources/SILK_SDK_SRC_ARM_$(silk_version) :
-	$(warning You must retrieve a valid silk sdk souce folder. Currently microsoft does not give a way to download from their website)
-	@#wget --no-check-certificate $(silk_repo); \
-	#unzip -d $< sources -q $(silk_remote_folder).zip; \
-	#rm $(silk_remote_folder).zip
-	@#@mv sources/SILK_SDK_SRC_$(silk_version)/* sources/
+	# $(warning You must retrieve a valid silk sdk souce folder. Currently microsoft does not give a way to download from their website)
+	@wget --no-check-certificate $(silk_repo); \
+	unzip -d $< sources -q $(silk_remote_folder).zip; \
+	sudo rm $(silk_remote_folder).zip
+	@#mv sources/SILK_SDK_SRC_$(silk_version)/* sources/
 
 update : sources/SILK_SDK_SRC_ARM_$(silk_version)
 	# managed by sources
