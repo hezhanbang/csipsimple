@@ -40,6 +40,7 @@ vim ~/.bashrc
 export ANDROID_SDK=/home/bang/third/adt-bundle-linux-x86_64-20131030/sdk
 export PATH=$ANDROID_SDK/tools/:$ANDROID_SDK/platform-tools:$PATH
 echo $ANDROID_SDK
+whereis android
 
 sudo apt-get install lib32stdc++6 lib32z1
 
