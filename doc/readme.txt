@@ -22,7 +22,7 @@ apt-get install -y default-jdk ant
 #要下载的第三方软件
 mkdir -p /home/bang/third
 cd /home/bang/third
-https://android.googlesource.com/platform/external/aac
+git clone https://android.googlesource.com/platform/external/aac
 
 # ndk
 wget -O /home/bang/third/android-ndk-r10e-linux-x86_64.zip https://dl.google.com/android/repository/android-ndk-r10e-linux-x86_64.zip?hl=zh_cn
