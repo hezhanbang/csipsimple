@@ -556,6 +556,8 @@ PJ_DEF(pj_status_t) pjmedia_snd_port_set_ec( pjmedia_snd_port *snd_port,
 		/* Device does not support setting EC tail */
 		return PJMEDIA_EAUD_INVCAP;
 	    }
+		
+		PJ_LOG(5,(THIS_FILE, "hebanng use device echo cancelation"));
 
 	    return pjmedia_aud_stream_set_cap(snd_port->aud_stream,
 					      PJMEDIA_AUD_DEV_CAP_EC_TAIL,
