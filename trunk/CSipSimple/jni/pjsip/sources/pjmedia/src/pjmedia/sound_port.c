@@ -619,6 +619,8 @@ PJ_DEF(pj_status_t) pjmedia_snd_port_set_ec( pjmedia_snd_port *snd_port,
 		snd_port->ec_state = NULL;
 	    else
 		snd_port->ec_suspended = PJ_FALSE;
+	
+		PJ_LOG(5,(THIS_FILE, "hebang use software echo cancelation"));
 	} else {
 	    PJ_LOG(4,(THIS_FILE, "Echo canceller is now disabled in the "
 				 "sound port"));

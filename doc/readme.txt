@@ -67,3 +67,9 @@ cd csipsimpleGithub/signApk/
 ./src/com/csipsimple/api/SipConfigManager.java:114:    public static final String ECHO_CANCELLATION = "echo_cancellation";
 ./src/com/csipsimple/ui/incall/InCallMediaControl.java:84:		echoCancellation = (CheckBox) findViewById(R.id.echo_cancellation);
 ./src/com/csipsimple/ui/incall/InCallMediaControl.java:363:				if (bId == R.id.echo_cancellation) {
+
+# 把安卓上的日志文件复制到PC
+adb pull "/storage/sdcard0/CSipSimple/logs/pjsiplogs_19-12-05_165038.txt" .
+
+# csipsimple的安装目录
+/data/app/com.csipsimple-1/
