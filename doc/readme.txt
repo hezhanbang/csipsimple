@@ -44,16 +44,19 @@ whereis android
 
 sudo apt-get install lib32stdc++6 lib32z1
 
-in csipsimpleGithub/trunk/ActionBarSherlock: 
+cd /home/bang/csipsimple/trunk/CSipSimple
+	make
+
+cd /home/bang/csipsimple/trunk/ActionBarSherlock
 	android list targets
 	android update project --target 1 -p ./
 
-in csipsimpleGithub/trunk/CSipSimple:
+cd /home/bang/csipsimple/trunk/CSipSimple
 	android update project -p ./
 	ant release
 
 # 向apk添加数字签名
-cd csipsimpleGithub/signApk/
+cd /home/bang/csipsimple/signApk/
 ./signApk.sh
 
  打开ecplise，创建虚拟机RAM:900 MV-Heap:32, 并开启虚拟机。
