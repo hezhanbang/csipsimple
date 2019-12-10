@@ -65,6 +65,9 @@ cd /home/bang/csipsimple/signApk/
 # 等虚拟机开机完成后，把CSipSimple安装上去。
 ./install2AndroidVirtualDevice.sh
 
+# 重新编译
+cd /home/bang/csipsimple/trunk/CSipSimple
+	ant clean
 
 /src/com/csipsimple/api/SipConfigManager.java:68:    public static final String ECHO_CANCELLATION_TAIL = "echo_cancellation_tail";
 ./src/com/csipsimple/api/SipConfigManager.java:114:    public static final String ECHO_CANCELLATION = "echo_cancellation";
